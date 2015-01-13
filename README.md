@@ -5,7 +5,7 @@
 
 <p> This is the repository for this project. It contains all the soruce code and documentation for this project </p>
 
-<p> The repository is organized into the following folders:&nbsp;
+<p> The repository is organized into the following folders:<br>
 
 <br> &nbsp;&nbsp;&nbsp;&nbsp;      src: This will contain all the source code for the project
  
