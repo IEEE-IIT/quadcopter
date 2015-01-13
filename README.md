@@ -7,6 +7,6 @@
 
 <p> The repository is organized into the following folders:
 
-      src: This will contain all the source code for the project
+<br>      src: This will contain all the source code for the project
  
-      docs: This will contain all the documentation for the project </p>
+<br>      docs: This will contain all the documentation for the project </p>
