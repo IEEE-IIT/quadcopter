@@ -11,4 +11,4 @@
  
 <br> &nbsp;&nbsp;&nbsp;&nbsp;      docs: This will contain all the documentation for the project </p>
 
-<br> <p>Helpful examples for starting our code base: https://code.google.com/p/quaduino-ng/ </p>
+ <p>Helpful examples for starting our code base: https://code.google.com/p/quaduino-ng/ </p>
