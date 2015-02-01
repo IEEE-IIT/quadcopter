@@ -10,3 +10,5 @@
 <br> &nbsp;&nbsp;&nbsp;&nbsp;      src: This will contain all the source code for the project
  
 <br> &nbsp;&nbsp;&nbsp;&nbsp;      docs: This will contain all the documentation for the project </p>
+
+<br> <p>Helpful examples for starting our code base: https://code.google.com/p/quaduino-ng/ </p>
